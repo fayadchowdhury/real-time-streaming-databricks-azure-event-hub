@@ -1,6 +1,11 @@
-# real-time-streaming-databricks-azure-event-hub
+![Banner](./assets/featured-image.png)
 
 This project explores Azure EventHubs as a data source to be consumed within Databricks and a dashboard set up in PowerBI
+
+### TL;DR
+- Real-time event data stream from Azure Event Hubs (relevant in IoT, telemetry, logging etc.)
+- Databricks stream processing in Medallion architecture
+- Live dashboarding in Power BI connected to Databricks
 
 # Azure Event Hubs
 
